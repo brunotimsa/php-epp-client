@@ -1,16 +1,10 @@
 {
-    "name": "metaregistrar/php-epp-client",
+    "name": "brunotimsa/php-epp-client",
     "type": "library",
     "description": "Object-oriented PHP EPP Client",
     "keywords": ["xml","epp","domains"],
-    "homepage": "https://github.com/metaregistrar/php-epp-client",
+    "homepage": "https://github.com/brunotimsa/php-epp-client",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Ewout de Graaf",
-            "email": "ewout@metaregistrar.com"
-        }
-    ],
     "require": {
         "php": "^7|^8.0",
         "ext-dom": "*",
