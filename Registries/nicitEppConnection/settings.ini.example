@@ -1,0 +1,6 @@
+interface=itEppConnection
+hostname=epp.pubtest.nic.it
+port=60125
+userid=NICIT
+password=000000
+logging=false
