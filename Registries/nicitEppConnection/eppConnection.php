@@ -17,6 +17,6 @@ class nicitEppConnection extends eppHttpsConnection
         parent::useExtension('it-extepp-2.0');
         parent::useExtension('it-extcon-1.0');
         parent::useExtension('it-extdom-2.0');
-        parent::useExtension('urn:ietf:params:xml:ns:rgp-1.0');
+        parent::useExtension('it-rgp-1.0');
     }
 }
