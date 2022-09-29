@@ -2,7 +2,7 @@
 
 namespace Metaregistrar\EPP;
 
-class nicitEppConnection extends eppHttpsConnection
+class itEppConnection extends eppHttpsConnection
 {
 
     public function __construct($logging = false, $settingsfile = null)
